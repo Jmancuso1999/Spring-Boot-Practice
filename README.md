@@ -2,7 +2,7 @@
 
 ![image](Model-view-controller-service.jpeg)
 
-## NOTE: This is a very basic example of Spring Boot - Google other Spring boot repos to better understand what each layer (model, serices, controllers) should contain.
+## NOTE: This is a very basic example of Spring Boot - Google other Spring boot repos to better understand what each layer (model, services, controllers) should contain.
 
 Model - This is what's connected to the database (Spring allows you to define tables and columns within the class). The application logic is defined here.
 
